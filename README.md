@@ -5,11 +5,11 @@ A NodeJS IPFS App
 
 - Install package
 
-'''npm install'''
+```npm install```
 
 - start the node
 
-'''node index'''
+```node index```
 
 Will listen on port 3000 of localhost by default.
 
