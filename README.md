@@ -10,6 +10,10 @@ Node 18.16.0
 
 `npm install`
 
+- Create files directory
+
+`mkdir files`
+
 - Start the node
 
 `node index`
